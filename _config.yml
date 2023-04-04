@@ -10,7 +10,7 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "Ron Chum"
+resume_name:                    "Ron Chum, MBA"
 resume_title:                   "Tax & Technology Professional"
 
 # used for the contact button in _layouts/resume.html
@@ -47,7 +47,6 @@ resume_section_associations:    false
 resume_social_links:
   resume_github_url:            "https://rchum.github.io"
   
- 
   resume_linkedin_url:          "https://www.linkedin.com/in/chumr"
  
 resume_print_social_links:      true
