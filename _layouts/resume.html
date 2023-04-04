@@ -57,24 +57,16 @@
 
         {% for education in site.data.education %}
        <div class="resume-item" itemscope itemtype=" ">
-        <!--<h3 class="resume-item-title" itemprop="name">{{ education.uni }}</h3>-->
-        <h3>Master of Science in Information Design and Strategy</h3>
-          <p><b>Master of Science in Information Design and Strategy , exp. 2025 GPA 3.9/4</b></p>
-          <p><b>Graduate Certificate in Communication with Data 2023</b></p>
-        
-        <h4>Master of Business Administration</h4>
-          <a<b>Master of Business Administration 2017 GPA 3.46/4</b></a>
-          <a<b>Graduate Certificate in Business Intelligence</b></a>
-          <a<b>Graduate Certificate in Human Resource Management</b></a>
-       <!-- <h4 class="resume-item-details group" itemprop="description">{{ education.degree }} &bull; {{ education.year }}</h4>
-        <h5 class="resume-item-details award-title" itemprop="description">{{ education.award }}</h5> -->
+       <h3 class="resume-item-title" itemprop="name">{{ education.uni }}</h3>
+       <h4 class="resume-item-details group" itemprop="description">{{ education.degree }} &bull; {{ education.year }}</h4>
+       <h5 class="resume-item-details award-title" itemprop="description">{{ education.award }}</h5>
   <!-- Uncomment the following code block to include a list of awards -->
   <!-- <ul class="resume-item-list">
     {% for award in education.awards %}
     <li>{{ award.award }}</li>
     {% endfor %}
   </ul> -->
-<!--  <p class="resume-item-copy" itemprop="description">{{ education.summary }}</p> -->
+<p class="resume-item-copy" itemprop="description">{{ education.summary }}</p>
 
 </div>
         
