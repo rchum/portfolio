@@ -1,14 +1,14 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
+
 - project: Data Mining for Business Analytics
   role: Data Analyst
   duration: January - May 2017
   # url: "#"
   description: Applied in-depth knowledge of several data mining concepts, processes, and techniques including both supervised and unsupervised techniques. Comprehension, application and evaluation of the data mining techniques to develop the expertise in analyzing data for better decision making.
 
-# Springfield Community Outreach Group
+
 - project: Visualization of Wine data
   role: Data Visualization Analyst
   duration: January - March 2023
