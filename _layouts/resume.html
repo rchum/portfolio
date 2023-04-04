@@ -64,13 +64,13 @@
         <!-- <h5 class="resume-item-details award-title" itemprop="description">{{ education.award }}</h5> -->
          <p class="resume-item-copy" itemprop="description">
             <ul class="resume-item-list">
-           <!--    {% for award in education.awards %}
+             {% for award in education.awards %}
               <li>{{ award.award }}</li> 
               {% endfor %}
             </ul>
-          
+          <p class="resume-item-copy">{{ education.summary }}</p> 
         </div> -->
-        <p class="resume-item-copy">{{ education.summary }}</p> 
+        
         
         {% endfor %}
       </section>
