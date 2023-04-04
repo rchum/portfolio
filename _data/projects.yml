@@ -2,19 +2,15 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # jazznotes.io
-- project: Data Mining for Business Analytics
-  role: -
-  duration: 2017
+- project: jazznotes.io
+  role: Founder & Primary Developer
+  duration: 2012 &mdash; Present
   # url: "#"
-  description: 
-  An in-depth knowledge of several data mining concepts, processes, and techniques including both supervised and unsupervised techniques. Comprehension, application and evaluation of the data mining techniques will develop the expertise to analyze data for better decision making.
-  
-  
+  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+
 # Springfield Community Outreach Group
-- project: -
-  role: -
-  duration: -
+- project: Springfield Community Outreach Group
+  role: Co-Founder & Organizer
+  duration: 2007 &mdash; Present
   # url: "#"
-  description: -
-  
-  
+  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
