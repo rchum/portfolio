@@ -60,9 +60,10 @@
         <div class="resume-item" itemscope itemprop="alumniOf" itemtype="http://schema.org/CollegeOrUniversity">
           
           <h3 class="resume-item-title" itemprop="name">{{ education.uni }}</h3>
-          <h4 class="resume-item-details group" itemprop="description">{{ education.degree }} &bull; {{ education.year }}</h4>
+          <h4 class="resume-item-details group" itemprop="description">{{ education.degree }} & {{ education.year }}</h4>
           <h5 class="resume-item-details award-title" itemprop="description">{{ education.award }}</h5>
-          
+          <h6 class="resume-item-title" itemprop="name">{{ education.uni1 }}</h6>
+          <h7 class="resume-item-details group" itemprop="description">{{ education.degree1 }}</h7>
           <!-- <p class="resume-item-copy" itemprop="description"> -->
            <!-- <ul class="resume-item-list">
              {% for award in education.awards %}
@@ -73,8 +74,7 @@
           
           
         </div>
-        <h6 class="resume-item-title" itemprop="name">{{ education.uni1 }}</h6>
-          <h7 class="resume-item-details group" itemprop="description">{{ education.degree1 }}</h7>
+        
         
         
         {% endfor %}
