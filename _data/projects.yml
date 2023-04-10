@@ -9,17 +9,17 @@
 - project: Human Resource Management
   role: Human Resource (HR) Analyst
   duration: January - May 2017
-  #url: https://www.linkedin.com/in/chumr/
+  url: https://rchum.github.io/p2/
   description: Constructed and explored the Human Resource (HR) Value Chain. Demonstrated the benefits of human resources processes that contributed to the achievement of organizational goals.
 
 - project: Data Analytics Study Design
   role: Data Analyst
   duration: September - December 2022
-  #url: https://www.linkedin.com/in/chumr/
+  #url: https://rchum.github.io/p3/
   description: Defined the problem statement, developed a plan to collect needed data, identified the risks associated with the collection of such data, developed a research hypothesis, utilized techniques for the analysis of risk and for selecting appropriate testing, addressed ancillary environmental factors, and developed a Q&A section to answer potential questions from the users of the data analytics information.
 
 - project: Visualization of Data
   role: Data Visualization Designer
   duration: January - March 2023
-  #url: https://www.linkedin.com/in/chumr/
+  #url: https://rchum.github.io/p4/
   description: Utilized models of text and data, worked within an open-source programming environment, and built interactive visualizations for the web. Reviewed and developed interactive visualizations of text, time series, networks, and maps.
