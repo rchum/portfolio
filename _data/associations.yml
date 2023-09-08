@@ -1,8 +1,8 @@
 # Associations
 # comment out the urls if you do not wish to display them
 
-- organization: Resume
-<object data="Ron Chum, MBA-1.pdf" width="1000" height="1000" type='application/pdf'/>
+- #organization: Resume
+
   #role: Volunteer
   #year: 2001 &mdash; 2010
   #url: https://www.peta.org/
